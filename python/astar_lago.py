@@ -1,3 +1,7 @@
+// problem link :- https://leetcode.com/problems/3sum/
+// avinash_verma
+//code chef :- avinash_vermaa
+//github : -   avinash_vermaaa
 
 def aStarAlgo(start_node, stop_node):
     open_set = set(start_node)
