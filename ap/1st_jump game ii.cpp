@@ -1,4 +1,4 @@
-// problem link :- https://leetcode.com/problems/3sum/
+// problem link :- https://leetcode.com/problems/jump-game-ii/
 // avinash_verma
 //code chef :- avinash_vermaa
 //github : -   avinash_vermaaa
