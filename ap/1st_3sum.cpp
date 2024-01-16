@@ -1,5 +1,7 @@
 // problem link :- https://leetcode.com/problems/3sum/
-// avinash_vermaa
+// avinash_verma
+//code chef :- avinash_vermaa
+//github : -   avinash_vermaaa
 
 class Solution {
 public:
